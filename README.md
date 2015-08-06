@@ -5,7 +5,7 @@ The button to push when there is simply too much shame for words. The Cersei cli
 ###Installation
 You'll need a [Photon](www.particle.io) and a breadboard, as well as some other components (like a button/switch). The physical installation is basic b as heck, and obviously yours will look better than how mine was set up:
 
-![alt text](http://imgur.com/QeJmKCZ "THE ShameButton")
+![alt text](http://imgur.com/QeJmKCZ.jpg "THE ShameButton")
 
 Once the physical layout is complete, copy the source and load it onto your Photon using the [Photon IDE](http://build.particle.io). Push the button and it will send an event to the Particle cloud.  
 
